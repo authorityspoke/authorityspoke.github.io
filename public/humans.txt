@@ -1,0 +1,8 @@
+/* TEAM */
+Site: Backlink Indexing Services
+Description: Backlink discovery and indexing services for SEO professionals.
+
+/* SITE */
+Standards: HTML5, CSS, TypeScript, React
+Components: Vite, Tailwind CSS, React Router (HashRouter), lucide-react
+Software: GitHub Pages

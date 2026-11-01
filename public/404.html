@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Page not found — Backlink Indexing Services</title>
+    <script>
+      // GitHub Pages SPA fallback: redirect any unknown path to the hash route.
+      // e.g. /backlink-indexing-services/services -> /backlink-indexing-services/#/services
+      (function () {
+        var base = window.location.pathname.replace(/\/[^/]*$/, '/');
+        var path = window.location.pathname.replace(base, '').replace(/^\/+/, '');
+        var target = window.location.origin + base + '#/' + path + window.location.search + window.location.hash;
+        window.location.replace(target);
+      })();
+    </script>
+  </head>
+  <body>
+    <p>Redirecting… If you are not redirected, <a href="./#/">go to the homepage</a>.</p>
+  </body>
+</html>

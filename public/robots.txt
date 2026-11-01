@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap for authorityspoke.github.io.
+Sitemap: https://authorityspoke.github.io/sitemap.xml
