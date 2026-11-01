@@ -14,9 +14,17 @@ const NAV = [
 
 function getInitialTheme(): boolean {
   if (typeof window === 'undefined') return false
-  const saved = window.localStorage.getItem('theme')
-  if (saved) return saved === 'dark'
-  return window.matchMedia('(prefers-color-scheme: dark)').matches
+  try {
+    const saved = window.localStorage.getItem('theme')
+    if (saved) return saved === 'dark'
+    if (typeof window.matchMedia === 'function') {
+      return window.matchMedia('(prefers-color-scheme: dark)').matches
+    }
+  } catch {
+    // Storage or media queries unavailable (e.g. restricted browser
+    // contexts) — fall back to light mode instead of crashing render.
+  }
+  return false
 }
 
 export function Layout({ children, breadcrumbs }: { children: ReactNode; breadcrumbs?: { label: string; to?: string }[] }) {
@@ -26,7 +34,11 @@ export function Layout({ children, breadcrumbs }: { children: ReactNode; breadcr
 
   useEffect(() => {
     document.documentElement.classList.toggle('dark', dark)
-    window.localStorage.setItem('theme', dark ? 'dark' : 'light')
+    try {
+      window.localStorage.setItem('theme', dark ? 'dark' : 'light')
+    } catch {
+      // Ignore storage failures in restricted browser contexts.
+    }
   }, [dark])
 
   useEffect(() => {
