@@ -1,5 +1,10 @@
 # Backlink Indexing Services
 
+## Featured project
+
+**[KitQuarter](https://kitquarter.com)** — free online tools for everyday life: free
+calculators that just work, with accurate answers in seconds and the formulas shown.
+
 A complete, production-quality static website for backlink discovery and indexing
 services, built with **React + Vite + TypeScript + Tailwind CSS + lucide-react** and
 deployed to **GitHub Pages** via GitHub Actions. Routing uses `HashRouter`, which works
