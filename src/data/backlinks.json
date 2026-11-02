@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T03:32:47.913Z",
-  "totalUrls": 88,
+  "generatedAt": "2026-11-02T04:00:28.576Z",
+  "totalUrls": 89,
   "totalCategories": 1,
   "categories": [
     "General"
@@ -533,6 +533,12 @@
       "anchor": "Notepad.pw",
       "category": "General",
       "sourceRow": 89
+    },
+    {
+      "url": "https://adipala.com/kitquarter",
+      "anchor": "Adipala",
+      "category": "General",
+      "sourceRow": 90
     }
   ]
 }
