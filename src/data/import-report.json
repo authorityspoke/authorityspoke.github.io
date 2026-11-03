@@ -1,8 +1,8 @@
 {
   "sourceFile": "data/kitquarter-live-links.csv",
-  "generatedAt": "2026-11-02T04:00:28.576Z",
-  "totalRowsSeen": 89,
-  "validUrls": 89,
+  "generatedAt": "2026-11-03T06:17:04.719Z",
+  "totalRowsSeen": 100,
+  "validUrls": 100,
   "duplicatesRemoved": 0,
   "unparseableRows": []
 }

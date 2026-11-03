@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T04:00:28.576Z",
-  "totalUrls": 89,
+  "generatedAt": "2026-11-03T06:17:04.719Z",
+  "totalUrls": 100,
   "totalCategories": 1,
   "categories": [
     "General"
@@ -539,6 +539,72 @@
       "anchor": "Adipala",
       "category": "General",
       "sourceRow": 90
+    },
+    {
+      "url": "https://pad.riseup.net/p/kitquarter",
+      "anchor": "Etherpad Riseup",
+      "category": "General",
+      "sourceRow": 91
+    },
+    {
+      "url": "https://pad.disroot.org/p/kitquarter",
+      "anchor": "Etherpad Disroot",
+      "category": "General",
+      "sourceRow": 92
+    },
+    {
+      "url": "https://privatebin.net/?3ff79e7eef4c6633#G5hDA2yG74YP4eVTziU3emktEgfCCNXbdt7gaSwRd5cj",
+      "anchor": "PrivateBin",
+      "category": "General",
+      "sourceRow": 93
+    },
+    {
+      "url": "https://board.net/p/kitquarter",
+      "anchor": "Etherpad board.net",
+      "category": "General",
+      "sourceRow": 94
+    },
+    {
+      "url": "https://pad.systemli.org/p/kitquarter",
+      "anchor": "Etherpad systemli",
+      "category": "General",
+      "sourceRow": 95
+    },
+    {
+      "url": "https://annuel.framapad.org/p/kitquarter-aog5?lang=en",
+      "anchor": "Framapad annual",
+      "category": "General",
+      "sourceRow": 96
+    },
+    {
+      "url": "https://pad.chapril.org/p/kitquarter",
+      "anchor": "Etherpad Chapril",
+      "category": "General",
+      "sourceRow": 97
+    },
+    {
+      "url": "https://cryptpad.fr/pad/#/2/pad/view/OtDgbaUPwQm3SKIkikC85CTok1DLoFFnkkVWpk0idgw/",
+      "anchor": "CryptPad",
+      "category": "General",
+      "sourceRow": 98
+    },
+    {
+      "url": "https://jsfiddle.net/h7tg5krv/",
+      "anchor": "JSFiddle",
+      "category": "General",
+      "sourceRow": 99
+    },
+    {
+      "url": "https://mensuel.framapad.org/p/kitquarter-aog6?lang=en",
+      "anchor": "Framapad monthly",
+      "category": "General",
+      "sourceRow": 100
+    },
+    {
+      "url": "https://hebdo.framapad.org/p/kitquarter-aog6?lang=en",
+      "anchor": "Framapad weekly",
+      "category": "General",
+      "sourceRow": 101
     }
   ]
 }
