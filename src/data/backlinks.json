@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T02:39:59.456Z",
-  "totalUrls": 103,
+  "generatedAt": "2026-11-04T03:02:25.878Z",
+  "totalUrls": 104,
   "totalCategories": 1,
   "categories": [
     "General"
@@ -623,6 +623,12 @@
       "anchor": "Etherpad Wikimedia",
       "category": "General",
       "sourceRow": 104
+    },
+    {
+      "url": "https://velog.io/@kitquarter/posts",
+      "anchor": "Velog",
+      "category": "General",
+      "sourceRow": 105
     }
   ]
 }
