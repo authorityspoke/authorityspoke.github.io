@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T03:02:25.878Z",
-  "totalUrls": 104,
+  "generatedAt": "2026-11-04T03:04:24.454Z",
+  "totalUrls": 107,
   "totalCategories": 1,
   "categories": [
     "General"
@@ -629,6 +629,24 @@
       "anchor": "Velog",
       "category": "General",
       "sourceRow": 105
+    },
+    {
+      "url": "https://pad.lqdn.fr/p/kitquarter",
+      "anchor": "Etherpad LQDN",
+      "category": "General",
+      "sourceRow": 106
+    },
+    {
+      "url": "https://pad.aquilenet.fr/p/kitquarter",
+      "anchor": "Etherpad Aquilenet",
+      "category": "General",
+      "sourceRow": 107
+    },
+    {
+      "url": "https://pad.infini.fr/p/kitquarter",
+      "anchor": "Etherpad Infini",
+      "category": "General",
+      "sourceRow": 108
     }
   ]
 }
