@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T03:09:45.630Z",
-  "totalUrls": 116,
+  "generatedAt": "2026-11-06T04:12:13.093Z",
+  "totalUrls": 121,
   "totalCategories": 1,
   "categories": [
     "General"
@@ -553,154 +553,184 @@
       "sourceRow": 92
     },
     {
-      "url": "https://privatebin.net/?3ff79e7eef4c6633#G5hDA2yG74YP4eVTziU3emktEgfCCNXbdt7gaSwRd5cj",
-      "anchor": "PrivateBin",
-      "category": "General",
-      "sourceRow": 93
-    },
-    {
       "url": "https://board.net/p/kitquarter",
       "anchor": "Etherpad board.net",
       "category": "General",
-      "sourceRow": 94
+      "sourceRow": 93
     },
     {
       "url": "https://pad.systemli.org/p/kitquarter",
       "anchor": "Etherpad systemli",
       "category": "General",
-      "sourceRow": 95
+      "sourceRow": 94
     },
     {
       "url": "https://annuel.framapad.org/p/kitquarter-aog5?lang=en",
       "anchor": "Framapad annual",
       "category": "General",
-      "sourceRow": 96
+      "sourceRow": 95
     },
     {
       "url": "https://pad.chapril.org/p/kitquarter",
       "anchor": "Etherpad Chapril",
       "category": "General",
-      "sourceRow": 97
+      "sourceRow": 96
     },
     {
       "url": "https://cryptpad.fr/pad/#/2/pad/view/OtDgbaUPwQm3SKIkikC85CTok1DLoFFnkkVWpk0idgw/",
       "anchor": "CryptPad",
       "category": "General",
-      "sourceRow": 98
+      "sourceRow": 97
     },
     {
       "url": "https://jsfiddle.net/h7tg5krv/",
       "anchor": "JSFiddle",
       "category": "General",
-      "sourceRow": 99
+      "sourceRow": 98
     },
     {
       "url": "https://mensuel.framapad.org/p/kitquarter-aog6?lang=en",
       "anchor": "Framapad monthly",
       "category": "General",
-      "sourceRow": 100
+      "sourceRow": 99
     },
     {
       "url": "https://hebdo.framapad.org/p/kitquarter-aog6?lang=en",
       "anchor": "Framapad weekly",
       "category": "General",
-      "sourceRow": 101
+      "sourceRow": 100
     },
     {
       "url": "https://liveweave.com/3bmg12",
       "anchor": "Liveweave",
       "category": "General",
-      "sourceRow": 102
+      "sourceRow": 101
     },
     {
       "url": "https://run.plnkr.co/plunks/HadX0iKkvWvG9xlC/",
       "anchor": "Plunker",
       "category": "General",
-      "sourceRow": 103
+      "sourceRow": 102
     },
     {
       "url": "https://etherpad.wikimedia.org/p/kitquarter",
       "anchor": "Etherpad Wikimedia",
       "category": "General",
-      "sourceRow": 104
+      "sourceRow": 103
     },
     {
       "url": "https://velog.io/@kitquarter/posts",
       "anchor": "Velog",
       "category": "General",
-      "sourceRow": 105
+      "sourceRow": 104
     },
     {
       "url": "https://pad.lqdn.fr/p/kitquarter",
       "anchor": "Etherpad LQDN",
       "category": "General",
-      "sourceRow": 106
+      "sourceRow": 105
     },
     {
       "url": "https://pad.aquilenet.fr/p/kitquarter",
       "anchor": "Etherpad Aquilenet",
       "category": "General",
-      "sourceRow": 107
+      "sourceRow": 106
     },
     {
       "url": "https://pad.infini.fr/p/kitquarter",
       "anchor": "Etherpad Infini",
       "category": "General",
-      "sourceRow": 108
+      "sourceRow": 107
     },
     {
       "url": "https://plingue.com/kitquarter",
       "anchor": "Plingue",
       "category": "General",
-      "sourceRow": 109
+      "sourceRow": 108
     },
     {
       "url": "https://zomi.net/kitquarter",
       "anchor": "Zomi",
       "category": "General",
-      "sourceRow": 110
+      "sourceRow": 109
     },
     {
       "url": "https://taar.bio/kitquarter",
       "anchor": "Taar.bio",
       "category": "General",
-      "sourceRow": 111
+      "sourceRow": 110
     },
     {
       "url": "https://in.bio/kitquarter",
       "anchor": "InBio",
       "category": "General",
-      "sourceRow": 112
+      "sourceRow": 111
     },
     {
       "url": "https://crypt.unredacted.org/pad/#/2/pad/view/Zv3lS23bSGL3EaYsVFGWzCSgst6ufjBgEWggEAWy84Q/",
       "anchor": "CryptPad Unredacted",
       "category": "General",
-      "sourceRow": 113
+      "sourceRow": 112
     },
     {
       "url": "https://pad.envs.net/pad/#/2/pad/view/EI5CqNlpJfcF+G93NRh3Sl40Oz7zUbXZ2+RtB-lQrQ8/",
       "anchor": "CryptPad envs.net",
       "category": "General",
-      "sourceRow": 114
+      "sourceRow": 113
     },
     {
       "url": "https://cryptpad.private.coffee/pad/#/2/pad/view/YAZv6GCFzL+VJfXEZp3r5iSd1PDO0xlGHWmfLvXcHFI/",
       "anchor": "CryptPad private.coffee",
       "category": "General",
-      "sourceRow": 115
+      "sourceRow": 114
     },
     {
       "url": "https://cryptpad.ffmuc.net/pad/#/2/pad/view/gXNAo4Ewf2Qghjfo0BCD8IklaSbLrrNuKer9NTuWnkQ/",
       "anchor": "CryptPad ffmuc",
       "category": "General",
-      "sourceRow": 116
+      "sourceRow": 115
     },
     {
       "url": "https://dcmnt.eu/pad/#/2/pad/view/exMwpzh8vWrmCgeUL1zAAFReM7KG2hXDvnBYS1O1ctc/",
       "anchor": "CryptPad dcmnt.eu",
       "category": "General",
+      "sourceRow": 116
+    },
+    {
+      "url": "https://privatebin.net/?80b38c09566dac08#Ht8Jd9w3yXCFbZutRxsHQg1DdHxM94AyVkHpoABLsvgd",
+      "anchor": "PrivateBin (2nd)",
+      "category": "General",
       "sourceRow": 117
+    },
+    {
+      "url": "https://pad.linxx.net/p/kitquarter-aog7",
+      "anchor": "Etherpad linxx.net",
+      "category": "General",
+      "sourceRow": 118
+    },
+    {
+      "url": "https://pad.gattini.ninja/p/kitquarter-aog7",
+      "anchor": "Etherpad gattini.ninja",
+      "category": "General",
+      "sourceRow": 119
+    },
+    {
+      "url": "https://annuel.framapad.org/p/kitquarter-20261106-aoi3?lang=en",
+      "anchor": "Framapad annual (2nd)",
+      "category": "General",
+      "sourceRow": 120
+    },
+    {
+      "url": "https://pad.picasoft.net/p/kitquarter-20261106",
+      "anchor": "Picapad (picasoft.net)",
+      "category": "General",
+      "sourceRow": 121
+    },
+    {
+      "url": "https://pad.ouvaton.coop/kitquarter-20261106",
+      "anchor": "Ouvaton Etherpad",
+      "category": "General",
+      "sourceRow": 122
     }
   ]
 }
