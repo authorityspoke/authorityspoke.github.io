@@ -3,6 +3,8 @@ export interface BacklinkEntry {
   anchor: string
   category: string
   sourceRow: number
+  /** As-supplied status (e.g. Live / Pending / Supplied). Absent for verified imports. */
+  status?: string
 }
 
 export interface BacklinkData {

@@ -143,7 +143,22 @@ export function BacklinkDirectory({ data, showHeader = true }: { data: BacklinkD
                       {entry.anchor || entry.url}
                     </a>
                     <p className="truncate text-xs text-slate-500 dark:text-slate-400">{entry.url}</p>
-                    <p className="text-xs text-slate-500 dark:text-slate-400">Category: {entry.category}</p>
+                    <p className="flex flex-wrap items-center gap-2 text-xs text-slate-500 dark:text-slate-400">
+                      <span>Category: {entry.category}</span>
+                      {entry.status && (
+                        <span
+                          className={`rounded-full px-2 py-0.5 font-semibold ${
+                            entry.status === 'Live'
+                              ? 'bg-emerald-100 text-emerald-800 dark:bg-emerald-900/50 dark:text-emerald-300'
+                              : entry.status === 'Pending'
+                                ? 'bg-amber-100 text-amber-800 dark:bg-amber-900/50 dark:text-amber-300'
+                                : 'bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-300'
+                          }`}
+                        >
+                          {entry.status === 'Pending' ? 'Pending approval' : entry.status}
+                        </span>
+                      )}
+                    </p>
                   </div>
                   <button
                     type="button"
