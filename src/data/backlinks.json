@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T04:12:13.093Z",
-  "totalUrls": 121,
+  "generatedAt": "2026-11-07T03:47:30.061Z",
+  "totalUrls": 124,
   "totalCategories": 1,
   "categories": [
     "General"
@@ -731,6 +731,24 @@
       "anchor": "Ouvaton Etherpad",
       "category": "General",
       "sourceRow": 122
+    },
+    {
+      "url": "https://pad-public.etsi.org/p/kitquarter-20261107",
+      "anchor": "Etherpad ETSI",
+      "category": "General",
+      "sourceRow": 123
+    },
+    {
+      "url": "https://pads.domainepublic.net/p/kitquarter-20261107",
+      "anchor": "Etherpad DomainePublic",
+      "category": "General",
+      "sourceRow": 124
+    },
+    {
+      "url": "https://cryptpad.blablalinux.be/pad/#/2/pad/edit/DsowqfxLCyeRF0nM03iHIG4m/",
+      "anchor": "CryptPad BlablaLinux",
+      "category": "General",
+      "sourceRow": 125
     }
   ]
 }
