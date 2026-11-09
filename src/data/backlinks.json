@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T03:12:52.940Z",
-  "totalUrls": 127,
+  "generatedAt": "2026-11-09T03:24:01.930Z",
+  "totalUrls": 132,
   "totalCategories": 1,
   "categories": [
     "General"
@@ -697,76 +697,106 @@
       "sourceRow": 116
     },
     {
-      "url": "https://privatebin.net/?80b38c09566dac08#Ht8Jd9w3yXCFbZutRxsHQg1DdHxM94AyVkHpoABLsvgd",
-      "anchor": "PrivateBin (2nd)",
-      "category": "General",
-      "sourceRow": 117
-    },
-    {
       "url": "https://pad.linxx.net/p/kitquarter-aog7",
       "anchor": "Etherpad linxx.net",
       "category": "General",
-      "sourceRow": 118
+      "sourceRow": 117
     },
     {
       "url": "https://pad.gattini.ninja/p/kitquarter-aog7",
       "anchor": "Etherpad gattini.ninja",
       "category": "General",
-      "sourceRow": 119
+      "sourceRow": 118
     },
     {
       "url": "https://annuel.framapad.org/p/kitquarter-20261106-aoi3?lang=en",
       "anchor": "Framapad annual (2nd)",
       "category": "General",
-      "sourceRow": 120
+      "sourceRow": 119
     },
     {
       "url": "https://pad.picasoft.net/p/kitquarter-20261106",
       "anchor": "Picapad (picasoft.net)",
       "category": "General",
-      "sourceRow": 121
+      "sourceRow": 120
     },
     {
       "url": "https://pad.ouvaton.coop/kitquarter-20261106",
       "anchor": "Ouvaton Etherpad",
       "category": "General",
-      "sourceRow": 122
+      "sourceRow": 121
     },
     {
       "url": "https://pad-public.etsi.org/p/kitquarter-20261107",
       "anchor": "Etherpad ETSI",
       "category": "General",
-      "sourceRow": 123
+      "sourceRow": 122
     },
     {
       "url": "https://pads.domainepublic.net/p/kitquarter-20261107",
       "anchor": "Etherpad DomainePublic",
       "category": "General",
-      "sourceRow": 124
+      "sourceRow": 123
     },
     {
       "url": "https://cryptpad.blablalinux.be/pad/#/2/pad/edit/DsowqfxLCyeRF0nM03iHIG4m/",
       "anchor": "CryptPad BlablaLinux",
       "category": "General",
-      "sourceRow": 125
+      "sourceRow": 124
     },
     {
       "url": "https://privatebin.net/?98d288abef0048b1#EPB4wUkAexUqAQkc36GT7SJgXeHztCei19JDr8rj6TXb",
       "anchor": "PrivateBin (3rd)",
       "category": "General",
-      "sourceRow": 126
+      "sourceRow": 125
     },
     {
       "url": "https://pad.lfavole.fr/p/kitquarter-20261108",
       "anchor": "Etherpad lfavole.fr",
       "category": "General",
-      "sourceRow": 127
+      "sourceRow": 126
     },
     {
       "url": "https://cryptpad.noleron.com/pad/#/2/pad/view/3TUO6AWO9YnqH4zng9OcjkmqGlsfmbSht+6eV0A1vPw/",
       "anchor": "CryptPad noleron.com",
       "category": "General",
+      "sourceRow": 127
+    },
+    {
+      "url": "https://hebdo.framapad.org/p/kitquarter-20261109?lang=en",
+      "anchor": "Framapad weekly (2nd)",
+      "category": "General",
       "sourceRow": 128
+    },
+    {
+      "url": "https://pad.telepono.info/p/kitquarter-20261109",
+      "anchor": "Etherpad Telepono",
+      "category": "General",
+      "sourceRow": 129
+    },
+    {
+      "url": "https://pad.taromist.online/p/kitquarter-20261109",
+      "anchor": "Etherpad Taromist",
+      "category": "General",
+      "sourceRow": 130
+    },
+    {
+      "url": "https://privatebin.net/?0fef361ef49116de#7UiJQTkJYagiFRn7TSupukjwoD5pzkv9SB6oSo7fJzuZ",
+      "anchor": "PrivateBin (4th)",
+      "category": "General",
+      "sourceRow": 131
+    },
+    {
+      "url": "https://pad.systmfailure.net/p/kitquarter-20261109",
+      "anchor": "Etherpad Systmfailure",
+      "category": "General",
+      "sourceRow": 132
+    },
+    {
+      "url": "https://pad.evolix.org/p/kitquarter-20261109",
+      "anchor": "Etherpad Evolix",
+      "category": "General",
+      "sourceRow": 133
     }
   ]
 }
