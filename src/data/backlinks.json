@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T03:08:28.357Z",
-  "totalUrls": 146,
+  "generatedAt": "2026-11-13T03:10:48.777Z",
+  "totalUrls": 151,
   "totalCategories": 1,
   "categories": [
     "General"
@@ -881,6 +881,36 @@
       "anchor": "Etherpad tourbe.es",
       "category": "General",
       "sourceRow": 147
+    },
+    {
+      "url": "https://privatebin.net/?c9a53c9b21c18236#7T7Z6fgXvHaADqe5eu5MVs9U982JtWUGbRzHm94xfKa5",
+      "anchor": "PrivateBin (7th)",
+      "category": "General",
+      "sourceRow": 148
+    },
+    {
+      "url": "https://hebdo.framapad.org/p/kitquarter-20261113?lang=en",
+      "anchor": "Framapad weekly (3rd)",
+      "category": "General",
+      "sourceRow": 149
+    },
+    {
+      "url": "https://etherpad.ops.uvlists.org/p/kitquarter-20261113",
+      "anchor": "Etherpad UVlists",
+      "category": "General",
+      "sourceRow": 150
+    },
+    {
+      "url": "https://pad.paulstefan.de/p/kitquarter-20261113",
+      "anchor": "Etherpad paulstefan.de",
+      "category": "General",
+      "sourceRow": 151
+    },
+    {
+      "url": "https://pad.entropy.fi/p/kitquarter-20261113",
+      "anchor": "Etherpad Entropy",
+      "category": "General",
+      "sourceRow": 152
     }
   ]
 }
