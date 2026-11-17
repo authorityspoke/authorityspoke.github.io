@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T03:25:55.952Z",
-  "totalUrls": 168,
+  "generatedAt": "2026-11-17T03:38:57.271Z",
+  "totalUrls": 172,
   "totalCategories": 1,
   "categories": [
     "General"
@@ -1013,6 +1013,30 @@
       "anchor": "Etherpad xpub.nl",
       "category": "General",
       "sourceRow": 169
+    },
+    {
+      "url": "https://pads.univ-grenoble-alpes.fr/p/kitquarter-20261117",
+      "anchor": "Etherpad UGA",
+      "category": "General",
+      "sourceRow": 170
+    },
+    {
+      "url": "https://pad.freifunk.net/p/kitquarter-20261117",
+      "anchor": "Etherpad Freifunk",
+      "category": "General",
+      "sourceRow": 171
+    },
+    {
+      "url": "https://zumpad.zum.de/p/kitquarter-20261117",
+      "anchor": "Etherpad ZUMPad",
+      "category": "General",
+      "sourceRow": 172
+    },
+    {
+      "url": "https://pad.constantvzw.org/p/kitquarter-20261117",
+      "anchor": "Etherpad Constant",
+      "category": "General",
+      "sourceRow": 173
     }
   ]
 }
