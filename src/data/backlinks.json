@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T03:25:42.249Z",
-  "totalUrls": 189,
+  "generatedAt": "2026-11-20T03:29:59.319Z",
+  "totalUrls": 200,
   "totalCategories": 1,
   "categories": [
     "General"
@@ -859,286 +859,352 @@
       "sourceRow": 143
     },
     {
-      "url": "https://hebdo.framapad.org/p/kitquarter-20261113?lang=en",
-      "anchor": "Framapad weekly (3rd)",
-      "category": "General",
-      "sourceRow": 144
-    },
-    {
       "url": "https://etherpad.ops.uvlists.org/p/kitquarter-20261113",
       "anchor": "Etherpad UVlists",
       "category": "General",
-      "sourceRow": 145
+      "sourceRow": 144
     },
     {
       "url": "https://pad.paulstefan.de/p/kitquarter-20261113",
       "anchor": "Etherpad paulstefan.de",
       "category": "General",
-      "sourceRow": 146
+      "sourceRow": 145
     },
     {
       "url": "https://pad.entropy.fi/p/kitquarter-20261113",
       "anchor": "Etherpad Entropy",
       "category": "General",
-      "sourceRow": 147
+      "sourceRow": 146
     },
     {
       "url": "https://unserpad.de/p/kitquarter-20261114",
       "anchor": "Etherpad Unserpad",
       "category": "General",
-      "sourceRow": 148
+      "sourceRow": 147
     },
     {
       "url": "https://pad.gresille.org/p/kitquarter-20261114",
       "anchor": "Etherpad Grésille",
       "category": "General",
-      "sourceRow": 149
+      "sourceRow": 148
     },
     {
       "url": "https://pad.colibris-outilslibres.org/p/kitquarter-20261114",
       "anchor": "Etherpad Colibris",
       "category": "General",
-      "sourceRow": 150
+      "sourceRow": 149
     },
     {
       "url": "https://pad.sesamath.net/p/kitquarter-20261114",
       "anchor": "Etherpad Sesamath",
       "category": "General",
-      "sourceRow": 151
+      "sourceRow": 150
     },
     {
       "url": "https://www.edupad.ch/p/kitquarter-20261114",
       "anchor": "Etherpad EduPad",
       "category": "General",
-      "sourceRow": 152
+      "sourceRow": 151
     },
     {
       "url": "https://hebdo.framapad.org/p/kitquarter-20261115?lang=en",
       "anchor": "Framapad weekly (4th)",
       "category": "General",
-      "sourceRow": 153
+      "sourceRow": 152
     },
     {
       "url": "https://pad.freeshell.de/p/kitquarter-20261115",
       "anchor": "Etherpad freeshell.de",
       "category": "General",
-      "sourceRow": 154
+      "sourceRow": 153
     },
     {
       "url": "https://pad.milkywan.fr/p/kitquarter-20261115",
       "anchor": "Etherpad MilkyPad",
       "category": "General",
-      "sourceRow": 155
+      "sourceRow": 154
     },
     {
       "url": "https://yopad.eu/p/kitquarter-20261115",
       "anchor": "Etherpad yopad.eu",
       "category": "General",
-      "sourceRow": 156
+      "sourceRow": 155
     },
     {
       "url": "https://brewpage.app/public/tUOtKEO1bL",
       "anchor": "BrewPage",
       "category": "General",
-      "sourceRow": 157
+      "sourceRow": 156
     },
     {
       "url": "https://pad.asta.uni-luebeck.de/p/kitquarter-20261115",
       "anchor": "Etherpad AStA",
       "category": "General",
-      "sourceRow": 158
+      "sourceRow": 157
     },
     {
       "url": "https://pad.fridaysforfuture.is/p/kitquarter-20261115",
       "anchor": "Etherpad Fridays for Future",
       "category": "General",
-      "sourceRow": 159
+      "sourceRow": 158
     },
     {
       "url": "https://pad.april.org/p/kitquarter-20261115",
       "anchor": "Etherpad April",
       "category": "General",
-      "sourceRow": 160
+      "sourceRow": 159
     },
     {
       "url": "https://hebdo.framapad.org/p/kitquarter-20261116?lang=en",
       "anchor": "Framapad weekly (5th)",
       "category": "General",
-      "sourceRow": 161
+      "sourceRow": 160
     },
     {
       "url": "https://pad.tetaneutral.net/p/kitquarter-20261116",
       "anchor": "Etherpad Tetaneutral",
       "category": "General",
-      "sourceRow": 162
+      "sourceRow": 161
     },
     {
       "url": "https://pad.sans-nuage.fr/p/kitquarter-20261116",
       "anchor": "Etherpad Sans Nuage",
       "category": "General",
-      "sourceRow": 163
+      "sourceRow": 162
     },
     {
       "url": "https://pad.bitlair.nl/p/kitquarter-20261116",
       "anchor": "Etherpad Bitlair",
       "category": "General",
-      "sourceRow": 164
-    },
-    {
-      "url": "https://privatebin.net/?6aac2209847ebbfb#8ZX6YdYuRbPu9grR4TWLeFaLHX8PLBWGNLA3Aj2TLe1i",
-      "anchor": "PrivateBin (11th)",
-      "category": "General",
-      "sourceRow": 165
+      "sourceRow": 163
     },
     {
       "url": "https://pad.sfconservancy.org/p/kitquarter-20261117",
       "anchor": "Etherpad SFC",
       "category": "General",
-      "sourceRow": 166
+      "sourceRow": 164
     },
     {
       "url": "https://pad.xpub.nl/p/kitquarter-20261117",
       "anchor": "Etherpad xpub.nl",
       "category": "General",
-      "sourceRow": 167
+      "sourceRow": 165
     },
     {
       "url": "https://pads.univ-grenoble-alpes.fr/p/kitquarter-20261117",
       "anchor": "Etherpad UGA",
       "category": "General",
-      "sourceRow": 168
+      "sourceRow": 166
     },
     {
       "url": "https://pad.freifunk.net/p/kitquarter-20261117",
       "anchor": "Etherpad Freifunk",
       "category": "General",
-      "sourceRow": 169
+      "sourceRow": 167
     },
     {
       "url": "https://zumpad.zum.de/p/kitquarter-20261117",
       "anchor": "Etherpad ZUMPad",
       "category": "General",
-      "sourceRow": 170
+      "sourceRow": 168
     },
     {
       "url": "https://pad.constantvzw.org/p/kitquarter-20261117",
       "anchor": "Etherpad Constant",
       "category": "General",
-      "sourceRow": 171
+      "sourceRow": 169
     },
     {
       "url": "https://privatebin.net/?96e0ac6d360b3b80#3rPpPMPgZpdUo1fwwED5vTq6veTXhKceEUiSVz55Yup4",
       "anchor": "PrivateBin (12th)",
       "category": "General",
-      "sourceRow": 172
+      "sourceRow": 170
     },
     {
       "url": "https://hebdo.framapad.org/p/kitquarter-20261118?lang=en",
       "anchor": "Framapad weekly (6th)",
       "category": "General",
-      "sourceRow": 173
+      "sourceRow": 171
     },
     {
       "url": "https://coolguycolin.duckdns.org/p/kitquarter-20261118",
       "anchor": "Etherpad coolguycolin.duckdns.org",
       "category": "General",
-      "sourceRow": 174
+      "sourceRow": 172
     },
     {
       "url": "https://etherpad.blablalinux.be/p/kitquarter-20261118",
       "anchor": "Etherpad BlablaLinux",
       "category": "General",
-      "sourceRow": 175
+      "sourceRow": 173
     },
     {
       "url": "https://pad.brk-sfr.de/p/kitquarter-20261118",
       "anchor": "Etherpad brk-sfr.de",
       "category": "General",
-      "sourceRow": 176
+      "sourceRow": 174
     },
     {
       "url": "https://pad.odoo.com/p/kitquarter-20261118",
       "anchor": "Etherpad Odoo",
       "category": "General",
-      "sourceRow": 177
+      "sourceRow": 175
     },
     {
       "url": "https://etherpad.lfnetworking.org/p/kitquarter-20261118",
       "anchor": "Etherpad LFNetworking",
       "category": "General",
-      "sourceRow": 178
+      "sourceRow": 176
     },
     {
       "url": "https://pad.labjor.unicamp.br/p/kitquarter-20261118",
       "anchor": "Etherpad Labjor",
       "category": "General",
-      "sourceRow": 179
+      "sourceRow": 177
     },
     {
       "url": "https://etherpad.its.sfu.ca/p/kitquarter-20261118",
       "anchor": "Etherpad SFU",
       "category": "General",
-      "sourceRow": 180
+      "sourceRow": 178
     },
     {
       "url": "https://privatebin.net/?10b790d80a2b3ffe#Ada5huKtsdYmwv28grpUS9SScSSzRkULZQzzXteDjnsq",
       "anchor": "PrivateBin (13th)",
       "category": "General",
-      "sourceRow": 181
+      "sourceRow": 179
     },
     {
       "url": "https://hebdo.framapad.org/p/kitquarter-20261119?lang=en",
       "anchor": "Framapad weekly (7th)",
       "category": "General",
-      "sourceRow": 182
+      "sourceRow": 180
     },
     {
       "url": "https://pad.education/p/kitquarter-20261119",
       "anchor": "Etherpad pad.education",
       "category": "General",
-      "sourceRow": 183
+      "sourceRow": 181
     },
     {
       "url": "https://pad.crans.org/p/kitquarter-20261119",
       "anchor": "Etherpad crans.org",
       "category": "General",
-      "sourceRow": 184
+      "sourceRow": 182
     },
     {
       "url": "https://pad.graz.social/p/kitquarter-20261119",
       "anchor": "Etherpad graz.social",
       "category": "General",
-      "sourceRow": 185
+      "sourceRow": 183
     },
     {
       "url": "https://pad.ccc-mannheim.de/p/kitquarter-20261119",
       "anchor": "Etherpad ccc-mannheim.de",
       "category": "General",
-      "sourceRow": 186
+      "sourceRow": 184
     },
     {
       "url": "https://pad.libre-service.eu/p/kitquarter-20261119",
       "anchor": "Etherpad libre-service.eu",
       "category": "General",
-      "sourceRow": 187
+      "sourceRow": 185
     },
     {
       "url": "https://pad.softwarelibre.uy/p/kitquarter-20261119",
       "anchor": "Etherpad softwarelibre.uy",
       "category": "General",
-      "sourceRow": 188
+      "sourceRow": 186
     },
     {
       "url": "https://pad.le-filament.com/p/kitquarter-20261119",
       "anchor": "Etherpad le-filament.com",
       "category": "General",
-      "sourceRow": 189
+      "sourceRow": 187
     },
     {
       "url": "https://pad.tyk.nu/p/kitquarter-20261119",
       "anchor": "Etherpad tyk.nu",
       "category": "General",
+      "sourceRow": 188
+    },
+    {
+      "url": "https://pad.allmende.io/p/kitquarter-20261120",
+      "anchor": "Etherpad allmende.io",
+      "category": "General",
+      "sourceRow": 189
+    },
+    {
+      "url": "https://marspad.org/p/kitquarter-20261120",
+      "anchor": "Etherpad marspad.org",
+      "category": "General",
       "sourceRow": 190
+    },
+    {
+      "url": "https://pad.opendoor.fr/p/kitquarter-20261120",
+      "anchor": "Etherpad opendoor.fr",
+      "category": "General",
+      "sourceRow": 191
+    },
+    {
+      "url": "https://pad.liberta.vip/p/kitquarter-20261120",
+      "anchor": "Etherpad liberta.vip",
+      "category": "General",
+      "sourceRow": 192
+    },
+    {
+      "url": "https://hebdo.framapad.org/p/kitquarter-20261120?lang=en",
+      "anchor": "Framapad weekly (8th)",
+      "category": "General",
+      "sourceRow": 193
+    },
+    {
+      "url": "https://notes.sh0rt.si/p/kitquarter-20261120",
+      "anchor": "Etherpad notes.sh0rt.si",
+      "category": "General",
+      "sourceRow": 194
+    },
+    {
+      "url": "https://pad.solidaires35.fr/p/kitquarter-20261120",
+      "anchor": "Etherpad solidaires35.fr",
+      "category": "General",
+      "sourceRow": 195
+    },
+    {
+      "url": "https://etherpad.unredacted.org/p/kitquarter-20261120",
+      "anchor": "Etherpad unredacted.org",
+      "category": "General",
+      "sourceRow": 196
+    },
+    {
+      "url": "https://pad.somnuvol.coop/kitquarter-20261120",
+      "anchor": "Etherpad somnuvol.coop",
+      "category": "General",
+      "sourceRow": 197
+    },
+    {
+      "url": "https://privatebin.net/?b182a8e659721a31#BGhBmoT2bwoHV8rx3n2JMoMjK41gk3LZM8hMjVkFirM3",
+      "anchor": "PrivateBin (14th)",
+      "category": "General",
+      "sourceRow": 198
+    },
+    {
+      "url": "https://pad.filai.re/p/kitquarter-20261120",
+      "anchor": "Etherpad filai.re",
+      "category": "General",
+      "sourceRow": 199
+    },
+    {
+      "url": "https://pad.cat/p/kitquarter-20261120",
+      "anchor": "Etherpad pad.cat",
+      "category": "General",
+      "sourceRow": 200
+    },
+    {
+      "url": "https://pad.gerade.org/p/kitquarter-20261120",
+      "anchor": "Etherpad gerade.org",
+      "category": "General",
+      "sourceRow": 201
     }
   ]
 }
